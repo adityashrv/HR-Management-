@@ -10,4 +10,5 @@ https://drive.google.com/drive/folders/1UXMq7ASnNjsjsMb9Wn6JfeSvqlO1Yq74?usp=sha
 5. Distribution of employees by Ethinicity
 ## Tech Stack Used-
 MS-Excel, Pivot Tables and chart
+## DASHBOARD-
 ![image](https://user-images.githubusercontent.com/111194246/186515401-e116e43f-1cbd-4bdc-98c8-783324b3e580.png)
