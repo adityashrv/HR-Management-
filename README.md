@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1UXMq7ASnNjsjsMb9Wn6JfeSvqlO1Yq74?usp=sha
 4. Distribution of employees by region
 5. Distribution of employees by Ethinicity
 ## Tech Stack Used-
-MS-Excel, Pivot Tables and chart
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## DASHBOARD-
 ![image](https://user-images.githubusercontent.com/111194246/186515401-e116e43f-1cbd-4bdc-98c8-783324b3e580.png)
 ## 🛠 Skills
